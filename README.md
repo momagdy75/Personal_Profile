@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Mobile Application Developer</h3>
 
 - 🔭 I’m currently working on [E-commerce App](https://github.com/amrs12145/E-commerce)
 
