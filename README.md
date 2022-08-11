@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momagdy75&show_icons=true&theme=dark&title_color=6493e0&text_color=8788b0&hide_border=false&locale=en&layout=compact" alt="momagdy75" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momagdy75&show_icons=true&theme=dark&title_color=6493e0&text_color=8788b0&hide_border=false&locale=en&layout=compact" alt="momagdy75" />
 </p>
 
 
